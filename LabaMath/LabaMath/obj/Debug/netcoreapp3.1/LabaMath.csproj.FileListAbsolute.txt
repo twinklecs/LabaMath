@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\LabaMath\LabaMath\bin\Debug\netcoreapp3.1\LabaMath.exe
+C:\Users\MSI\source\repos\LabaMath\LabaMath\bin\Debug\netcoreapp3.1\LabaMath.deps.json
+C:\Users\MSI\source\repos\LabaMath\LabaMath\bin\Debug\netcoreapp3.1\LabaMath.runtimeconfig.json
+C:\Users\MSI\source\repos\LabaMath\LabaMath\bin\Debug\netcoreapp3.1\LabaMath.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\LabaMath\LabaMath\bin\Debug\netcoreapp3.1\LabaMath.dll
+C:\Users\MSI\source\repos\LabaMath\LabaMath\bin\Debug\netcoreapp3.1\LabaMath.pdb
+C:\Users\MSI\source\repos\LabaMath\LabaMath\bin\Debug\netcoreapp3.1\LabMath.dll
+C:\Users\MSI\source\repos\LabaMath\LabaMath\obj\Debug\netcoreapp3.1\LabaMath.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LabaMath\LabaMath\obj\Debug\netcoreapp3.1\LabaMath.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\LabaMath\LabaMath\obj\Debug\netcoreapp3.1\LabaMath.AssemblyInfo.cs
+C:\Users\MSI\source\repos\LabaMath\LabaMath\obj\Debug\netcoreapp3.1\LabaMath.csproj.CopyComplete
+C:\Users\MSI\source\repos\LabaMath\LabaMath\obj\Debug\netcoreapp3.1\LabaMath.dll
+C:\Users\MSI\source\repos\LabaMath\LabaMath\obj\Debug\netcoreapp3.1\LabaMath.pdb
